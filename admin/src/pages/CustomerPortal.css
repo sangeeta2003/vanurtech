@@ -1,0 +1,48 @@
+.customer-container {
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+    background: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+  }
+  
+  h2 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .project-card {
+    background: #f9f9f9;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+  }
+  
+  .project-card h3 {
+    color: #007bff;
+  }
+  
+  .project-card p {
+    color: #555;
+  }
+  
+  .project-media {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+  }
+  
+  .project-media img, .project-media video {
+    width: 150px;
+    height: 100px;
+    border-radius: 5px;
+    object-fit: cover;
+  }
+  
+  .chart-container {
+    max-width: 300px;
+    margin: auto;
+    margin-top: 15px;
+  }
+  

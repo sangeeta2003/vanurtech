@@ -1,0 +1,23 @@
+.project-form {
+    display: grid;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  textarea {
+    height: 80px;
+    resize: none;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    padding: 10px;
+    background: #f9f9f9;    
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  
